@@ -1,0 +1,47 @@
+
+body {
+    background-color: #333336;
+    text-align: center;
+    color: #eee;
+    overflow-x: hidden;
+}
+
+#gallery {
+    overflow-x: scroll;
+    width: auto;
+    margin: 0 auto;
+    height: 50vh;
+    background-color: snow;
+    overflow-y: hidden;
+}
+
+#gallery button {
+    background-color: #eee;
+    border-radius: 0px;
+    border-style: none;
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: #bbb;
+    margin: 1%;
+}
+
+#gallery button:hover {
+    background-color: #eee;
+    border-radius: 0px;
+    border-style: none;
+    outline-style: solid;
+    outline-width: 5px;
+    outline-color: #bbb;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #333;
+    background-color: #eee;
+    padding: 3px;
+}

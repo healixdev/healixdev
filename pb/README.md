@@ -1,0 +1,1 @@
+made by healix dev as a practical joke based n the song "paint it black" it is humor and not hate speach sorry for any misunderstandings
